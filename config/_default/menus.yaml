@@ -1,0 +1,17 @@
+leftnav:
+- identifier: 962458ad-c866-4104-9ef7-865354d00184
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 1088b21f-26f9-4041-b1bb-5ff4ed881249
+  name: Reading List
+  pageRef: /pages/readings
+  weight: 20
+- identifier: 456e1e79-0cdf-437e-a52f-1797eb9aab2c
+  name: Lecture Notes
+  pageRef: /lists/lecture-notes
+  weight: 30
+- identifier: 5d9757f4-cc28-478b-b920-77509a455878
+  name: Final Paper Assignment
+  pageRef: /pages/sample-midterm-questions
+  weight: 40

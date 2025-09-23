@@ -1,0 +1,43 @@
+{
+  "term": "Spring",
+  "year": "2022",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Linguistics"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "4b990e6c-8fc5-fec0-0dd0-9bdca4434254"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "ea0700de-f53f-4fd7-a120-df364b4627c6",
+    "website": "language-acquisition"
+  },
+  "course_title": "Language Acquisition",
+  "hide_download": false,
+  "course_description": "This course is an introduction to language acquisition, a subfield of linguistics whose goal is to understand how humans acquire the ability to speak and understand a language\u2014a highly complex task that is routinely and seemingly effortlessly accomplished by competent (native) speakers of the language in the first few years of life and without explicit instruction. By contrast, acquiring a second language after the critical period takes a long time, is effortful, usually requires explicit instruction and correction, and often fails to reach a level of competency that native speakers of the language have.\n\nFocusing on first language acquisition\u2014the process by which native speakers of a language acquire the ability to speak and understand that language\u2014this course covers selected topics in core areas of linguistic knowledge, including the lexicon (words), sentence structure, meaning composition, and pragmatics, from a developmental perspective.",
+  "department_numbers": [
+    "24"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "24.904",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "language-acquisition"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Written Assignments"
+  ],
+  "site_uid": "d5d70e9a-6e5c-4ba4-b842-cda280191f70",
+  "site_short_id": "24.904-spring-2022",
+  "site_url_path": "courses/24-904-language-acquisition-spring-2022"
+}
