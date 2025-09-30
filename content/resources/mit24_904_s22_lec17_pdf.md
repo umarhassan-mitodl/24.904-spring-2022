@@ -5,6 +5,8 @@ draft: false
 file: /courses/24-904-language-acquisition-spring-2022/mit24_904_s22_lec17.pdf
 file_size: 1521562
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''
