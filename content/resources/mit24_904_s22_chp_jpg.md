@@ -9,9 +9,9 @@ image_metadata:
   caption: 'At the age of 2 or 3, a child will typically have learned the rules for
     regular plurals, and will apply those rules consistently, for instance by saying
     "gooses" as the plural of *goose*. By the age of 4 or 5, the child is likely to
-    have learned common irregular plurals such as *geese*. (Photo courtesy of [Ruth
-    Hartnup](https://www.flickr.com/photos/ruthanddave/17126384459) on Flickr. License:
-    CC BY.)'
+    have learned common irregular plurals such as *geese*. (Photo courtesy of {{%
+    resource_link "a3d881c2-be51-421c-b864-b48cf41b1ea3" "Ruth Hartnup" %}} on Flickr.
+    License: CC BY.)'
   credit: 'Photo courtesy of Ruth Hartnup on Flickr. License: CC BY.'
   image-alt: A young boy at a beach, encountering two adult Canada geese and a large
     number of fluffy goslings.
